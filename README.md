@@ -1,4 +1,4 @@
-# PIX-api
+# Mercado-Pago-PIX-api
 
 A minimal, reusable PIX payment API built with NestJS and TypeScript, integrated with Mercado Pago's Checkout API. The goal is simple: a clean HTTP layer for PIX that does one thing well and can be plugged into any project that needs payment processing — without carrying the weight of a full e-commerce application.
 
@@ -184,7 +184,7 @@ MIT
 
 ---
 
-# pix-api
+# Mercado-Pago-PIX-api
 
 Uma API HTTP mínima e reutilizável para cobranças PIX, construída com NestJS e TypeScript e integrada ao Checkout API do Mercado Pago. O objetivo é simples: uma camada de PIX limpa que faz uma coisa bem feita e pode ser plugada em qualquer projeto que precise processar pagamentos — sem carregar o peso de um e-commerce completo.
 
